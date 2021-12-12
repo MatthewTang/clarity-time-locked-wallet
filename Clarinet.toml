@@ -1,0 +1,7 @@
+
+[project]
+name = "timeclocked-wallet"
+
+# [contracts.counter]
+# path = "contracts/counter.clar"
+# depends_on = []
